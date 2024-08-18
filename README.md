@@ -10,3 +10,5 @@ for test run :
 recommend('Avatar')
 or
 recommend('Batman Begins')
+
+link to the datasets: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
